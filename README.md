@@ -8,3 +8,5 @@
  
  The project uses Oculus SDK for VR headset configuration.
  Both joystick and hand input modes are supported.
+
+![mob_robot](https://github.com/Sad-turtle/VR_control_of_mobile_robot/blob/main/robot.gif)
